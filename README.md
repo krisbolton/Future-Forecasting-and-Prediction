@@ -1,6 +1,6 @@
 # Forecasting and Prediction
 
-A number of resources for creating systematic, science-lead scenario forecasts and predictions based on government and academic tools.
+A number of resources for creating systematic, science-lead scenarios, predictions and future models based on government and academic tools.
 
 ## Documents
 
