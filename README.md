@@ -9,7 +9,6 @@ A number of resources for creating systematic, science-lead scenarios, predictio
 - [Analysis of the Future: The Delphi Method - Olaf Helmer](https://github.com/krisbolton/Forecasting-and-Prediction/blob/master/Analysis%20of%20the%20Future%20-%20The%20Delphi%20Method%20-%20Helmer.pdf)
 - [Six Pillars: Futures Thinking for Transforming](https://github.com/krisbolton/Forecasting-and-Prediction/blob/master/Six%20Pillars%20-%20Futures%20thinking%20for%20transforming.pdf)
 - [Systematic Foresight Methodology](https://github.com/krisbolton/Forecasting-and-Prediction/blob/master/Systemic%20Foresight%20Methodology.pdf)
-- [Learning with Scenarios: Summary and Critical Issues](https://github.com/krisbolton/Forecasting-and-Prediction/blob/master/Learning%20with%20Scenarios%20-%20Summary%20and%20Critical%20Issues.pdf)
 - [Creating the Future: The Use and Misuse of Scenarios](https://github.com/krisbolton/Forecasting-and-Prediction/blob/master/Creating%20the%20future%20-%20the%20use%20and%20misue%20of%20sceanrios.pdf)
 - [Scenario Practices: In Search of Theory](https://github.com/krisbolton/Forecasting-and-Prediction/blob/master/Scenario%20Practices%20-%20In%20Search%20of%20a%20Theory.pdf)
 - [Multiple Scenario Development - Its Conceptual and Behavioral Foundation](https://github.com/krisbolton/Forecasting-and-Prediction/blob/master/Multiple%20Scenario%20Development%20-%20Its%20Conceptual%20and%20Behavioral%20Foundation.pdf)
